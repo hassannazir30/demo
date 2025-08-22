@@ -1,3 +1,3 @@
 # demo
 My first repository <br>
-Author - Hassan Nazir Arain
+Author - Hassan Nazir Arain.
